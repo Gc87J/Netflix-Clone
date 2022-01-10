@@ -1,0 +1,91 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+
+}
+body{
+  background:rgba(0,0,0,0.7) url(/images/Netflix-background.png);
+  background-blend-mode: darken;
+  color: #fff;
+
+}
+
+/*The start of the navigation bar*/
+.nav-bar{
+
+}
+.nav-bar-logo{
+font-size: xxx-large;
+text-decoration: none;
+color: red;
+}
+.nav-bar-buttons{
+position: absolute;
+left: 75rem;
+top: 1.5rem;
+}
+.navbar-select{
+padding: 10px 10px 10px 10px;
+background: transparent;
+color: #fff;
+  
+}
+.op-1{
+
+}
+.op-2{
+
+
+}
+.navbar-btn{
+
+font-size: 100;
+border-radius: 6px;
+padding: 10px 20px 10px 20px;
+background-color: red;
+color: #fff;
+border: red;
+
+}
+/*The end of the navigation bar*/
+
+
+/*The start of the first section*/
+.first-section{
+
+
+}
+.background-img{
+  
+} 
+.first-section-par{
+
+
+}
+.first-header{
+
+
+}
+.first-text1{
+
+
+}
+.first-text2{
+
+
+}
+.first-sec-btn-par{
+
+
+}
+.first-sec-input{
+
+
+}
+.first-sec-btn{
+
+
+}
+
+/*The end of the first section*/
